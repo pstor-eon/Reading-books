@@ -39,11 +39,7 @@
  
  - [GIT]
    - Pro Git
- 
-- [Physics]
-  - 
-- [Society]
-  - 
+  
 - [ETC]
   - 컴퓨터 구조와 원리 2.0
   - 열혈 TPC/IP 소켓 프로그래밍
@@ -51,6 +47,7 @@
   - OFFICAL (ISC) GUIDE TO THE HCISPP CBK
 
 ## 📖 recommended book
+- 여덟 단어 (인생을 대하는 우리의 자세)
 
 ## ✏️ English Book
 - [Hacking (Cyber Security)]
