@@ -48,6 +48,8 @@
 
 ## 📖 recommended book
 - 여덟 단어 (인생을 대하는 우리의 자세)
+- 내가 알고 있는 걸 당신도 알게 된다면
+- 리얼리티 트랜서핑 1, 2, 3
 
 ## ✏️ English Book
 - [Hacking (Cyber Security)]
